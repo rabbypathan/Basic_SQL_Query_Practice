@@ -63,14 +63,14 @@ Points: 3675
 9. Change the 'Date of Birth' column name to 'dob'.
 10. Find the max point holder customer name.
 11. Execute a query for the following scenario.
-If customers have points less than 1000, they are bronze members.
-If customers have points of more than 1000 and less than 2000, they are silver members.
-If customers have points of more than 2000 and less than 3000, they are gold members.
-If customers have points of more than 3000, they are platinum members.
+- If customers have points less than 1000, they are bronze members.
+- If customers have points of more than 1000 and less than 2000, they are silver members.
+- If customers have points of more than 2000 and less than 3000, they are gold members.
+- If customers have points of more than 3000, they are platinum members.
 
 ## Tools & Technologies Used
-- visual studio code
-- xampp
+- Visual Studio Code
+- XAMPP
 
 
 
