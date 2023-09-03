@@ -68,3 +68,24 @@ If customers have points of more than 1000 and less than 2000, they are silver m
 If customers have points of more than 2000 and less than 3000, they are gold members.
 If customers have points of more than 3000, they are platinum members.
 
+## Tools & Technologies Used
+- visual studio code
+- xampp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
