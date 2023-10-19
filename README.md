@@ -1,4 +1,4 @@
-# Basic_SQL_Query_Practice
+# Basic SQL Query Practice
 
 ## Scenerio
 1. Create a database named database_assignment.
